@@ -15,7 +15,7 @@
 # 💡 Scam
 - [x] Second wallet backdoor : 0x4E02375a803462FE27cb489e7C16ade676f13cD8 hidden in obfuscated index.js
 
-## 🖼️ 3 Scammer: CRYPTOSCEM Github:github.com/0x32Moon and github.com/bumroom (same person)
+## 🖼️ 3 Scammer: CRYPTOSCEM Github:github.com/Cryptoscem and github.com/bumroom (same person)
 
 ![preview](https://camo.githubusercontent.com/a3d3dde634ed249544e154d8d13c68b83b941888693b3818e82ccef8e3aaf29d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3936343933353431333736363730313036372f3937313636313231323436303933333134302f53637265656e73686f745f323032322d30352d30355f3132303430342e706e67?width=1753&height=905)
 
